@@ -1,2 +1,2 @@
 # projeto
-teste teste
+Verificar conexo com a repo remoto! 
