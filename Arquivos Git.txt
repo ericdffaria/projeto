@@ -21,4 +21,5 @@ Puxar fluxo de arquivos de um repo remoto.
     --
 Clone - Clonar um projeto da repo remote.
     <git Clone = Clonar repositorio>
-    
+    --
+
