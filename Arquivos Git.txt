@@ -18,3 +18,7 @@ Fim de envio de um arquivo para repo remote.
     --
 Puxar fluxo de arquivos de um repo remoto.
     <git pull = "Puxar as alterações do repo remoto">
+    --
+Clone - Clonar um projeto da repo remote.
+    <git Clone = Clonar repositorio>
+    
