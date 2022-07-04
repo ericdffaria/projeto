@@ -23,4 +23,7 @@ Clone - Clonar um projeto da repo remote.
     <git Clone = Clonar repositorio>
     --
 Fim do pull e clone = puxando e clonando repo remote.
-
+    --
+Renomeando e removewndo um arquivo do Git.
+    <rm nome do arquivo = Excluindo um arquivo do Git>
+    <>
