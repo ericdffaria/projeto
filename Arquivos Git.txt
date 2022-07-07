@@ -28,7 +28,7 @@ Renomeando e removewndo um arquivo do Git.
     <rm nome do arquivo = Excluindo um arquivo do Git.>
     <>
 
-<<<<<<< HEAD
+status<<<<<<< HEAD
     -- CRIANDO BRANCH --
 =======
         -- CRIANDO BRANCH --
