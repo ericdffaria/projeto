@@ -24,6 +24,7 @@ Clone - Clonar um projeto da repo remote.
     --
 Fim do pull e clone = puxando e clonando repo remote.
     --
+<<<<<<< HEAD
 Renomeando e removewndo um arquivo do Git.
     <rm nome do arquivo = Excluindo um arquivo do Git.>
     <>
@@ -58,3 +59,6 @@ status<<<<<<< HEAD
 =======
     git marge <nome da branch> - faz a uniao de duas branch.
 >>>>>>> ericdouglasffaria
+=======
+Renomeando e removewndo um arquivo do Git!
+>>>>>>> 935130a879b23542ab262c22fa6aa27e8b1d99ce
