@@ -45,6 +45,7 @@ Renomeando e removewndo um arquivo do Git.
 
     git checkout -b <nome da branch> - Cria uma branch e muda automatico para a branch nova.
     
-    --  UNiNDO AS BRANCHS --
+    --  UNINDO AS BRANCHS --
 
     git marge <nome da branch> - faz a uniao de duas branch.
+    
