@@ -32,5 +32,7 @@ Renomeando e removewndo um arquivo do Git.
     BRANCHES - São ramificação apartir de um codigo fonte.
     Branch é uma forma de que o git separa as versões dos projetos.
     
+    git branch - verificar os branch
+    git branch <nome da branch> - criar uma nova branch.
 
 
