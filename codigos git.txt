@@ -49,10 +49,3 @@ Fim do pull e clone = puxando e clonando repo remote.
     --  UNINDO AS BRANCHS --
 
     git marge <nome da branch> - faz a uniao de duas branch.
-<<<<<<< HEAD:Arquivos Git.txt
-=======
-
-    -- FIM DA MERGE --
-    
->>>>>>> 7c6ce309c307ff7298c741fa30a744d3cea3fac2:codigos git.txt
-    
