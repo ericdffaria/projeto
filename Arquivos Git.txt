@@ -28,11 +28,25 @@ Renomeando e removewndo um arquivo do Git.
     <rm nome do arquivo = Excluindo um arquivo do Git.>
     <>
 
+    -- CRIANDO BRANCH --
 
     BRANCHES - São ramificação apartir de um codigo fonte.
     Branch é uma forma de que o git separa as versões dos projetos.
     
     git branch - verificar os branch
     git branch <nome da branch> - criar uma nova branch.
+
+    -- DELETANDO BRANCH -- 
+
+    git branch -d <nome da branch>
+    git branch --delete <nome da branch>
+
+    -- MUDANDO DE BRANCH --
+    
+    git checkout -b <nome da branch> - Cria uma branch e muda automatico para a branch nova.
+    
+
+
+
 
 
