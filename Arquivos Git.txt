@@ -28,7 +28,11 @@ Renomeando e removewndo um arquivo do Git.
     <rm nome do arquivo = Excluindo um arquivo do Git.>
     <>
 
+<<<<<<< HEAD
     -- CRIANDO BRANCH --
+=======
+        -- CRIANDO BRANCH --
+>>>>>>> ericdouglasffaria
 
     BRANCHES - São ramificação apartir de um codigo fonte.
     Branch é uma forma de que o git separa as versões dos projetos.
@@ -47,6 +51,10 @@ Renomeando e removewndo um arquivo do Git.
     
     --  UNiNDO AS BRANCHS --
 
+<<<<<<< HEAD
     git marge <nome da branch> - faz a uniao de duas branch.
 
     git teste. 123
+=======
+    git marge <nome da branch> - faz a uniao de duas branch.
+>>>>>>> ericdouglasffaria
