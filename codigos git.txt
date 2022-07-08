@@ -62,7 +62,11 @@ Fim do pull e clone = puxando e clonando repo remote.
      git stash drop <numero da stash> - remove uma stash especifica.
      
      -- CRIANDO TAG NO GIT -- 
+     Cria um ponto de restauraçao do codigo.
 
+     git tag - verifica as tag
      git tag -a <nome> -m <msg> - cria tag nas versões enviada para versão.
+     git show <nome da tag> - verifica as nodificação da versão.
+     git checkout <nome da tag> - restaura um checkpoint do seu codigo.
 
-     
+
