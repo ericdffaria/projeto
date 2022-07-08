@@ -50,8 +50,19 @@ Fim do pull e clone = puxando e clonando repo remote.
 
     git marge <nome da branch> - faz a uniao de duas branch.
 
-    -- STASH --
+    -- CRIANDO UMA STASH --
 
     git stash - Manda seu codigo para um versão temporaria
     git stash apply <numero da stash> - volta todo o seu versão de onde parou antes.
-   
+    git stash show -p <numero da stash> - mostra as alterações de cada stash.
+
+     -- REMOVENDO AS STASH -- 
+
+     git stash clear - remove todas as stash.
+     git stash drop <numero da stash> - remove uma stash especifica.
+     
+     -- CRIANDO TAG NO GIT -- 
+
+     git tag -a <nome> -m <msg> - cria tag nas versões enviada para versão.
+
+     
