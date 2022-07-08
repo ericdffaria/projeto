@@ -49,3 +49,9 @@ Fim do pull e clone = puxando e clonando repo remote.
     --  UNINDO AS BRANCHS --
 
     git marge <nome da branch> - faz a uniao de duas branch.
+
+    -- STASH --
+
+    git stash - Manda seu codigo para um versão temporaria
+    git stash apply <numero da stash> - volta todo o seu versão de onde parou antes.
+   
