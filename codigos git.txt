@@ -69,4 +69,6 @@ Fim do pull e clone = puxando e clonando repo remote.
      git show <nome da tag> - verifica as nodificação da versão.
      git checkout <nome da tag> - restaura um checkpoint do seu codigo.
 
+      -- FIM DA TAGS --
+
 
